@@ -1,0 +1,1 @@
+linux1,192.168.1.69,v1,comunidadSNMP,8080
